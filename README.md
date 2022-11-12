@@ -2,7 +2,7 @@
 
 •	👀 I'm looking to pivot to a career as a data or business intelligence analyst from my 15+ years in defense contracting & logistics.
 
-•	🌱 I’m currently learning the real-world applications of Excel, SQL, Tableau, & Python and how it all works together in the field of business analytics.
+•	🌱 I’m learning the real-world applications of Excel, SQL, Tableau, & Python and how it all works together in the field of business analytics.
 
 •	🤝🏼 I’m looking to collaborate on projects relating to Excel, SQL, Tableau, Python, & Quantitative Algo for Trading.
 
