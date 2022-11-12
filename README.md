@@ -4,7 +4,7 @@
 - 🤝🏼 I’m looking to collaborate on projects relating to Excel, SQL, Tableau, Python, & Quantitative Algo for Trading 
 - ❤️ I have a passion for investing in the stock market and traveling the world
 - 🗣️ I can speak 3 languages: English, Korean, and Spanish
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ericdledoux) or [Email](ericdledoux@gmail.com)
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ericdledoux) or via [Email](ericdledoux@gmail.com)
 <!---
 ericdledoux/ericdledoux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
